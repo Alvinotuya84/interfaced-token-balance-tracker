@@ -1,4 +1,7 @@
 
+
+Note:
+This is the interfaced repository  I have shared with you the command line  repository too
 ## Requirements
 To run this program, you need to have node.js installed in your computer.
 
@@ -34,8 +37,7 @@ $ npm start
 $ npm run dev
 
 
-Note:
-This is the interfaced repository  I have shared with you the command line  repository too
+
 
 
 
